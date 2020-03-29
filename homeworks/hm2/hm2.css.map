@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,IAAI,CAAC;EAED,gBAAgB,EAAE,IAAI;CAAG",
+    "sources": [
+        "hm2.sass"
+    ],
+    "names": [],
+    "file": "hm2.css"
+}
